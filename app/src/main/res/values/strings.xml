@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventtusTask</string>
+    <string name="login_error">Error During Logging , Check Connection</string>
+    <string name="error_tweets">Check internet connection to last online 10 tweets</string>
+    <string name="connection_error">Please check internet connection</string>
+    <string name="loading">Loading...</string>
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> أمتحان أيفنتوس </string>
+    <string name="login_error"> خطأ أثناء الدخول ,أفحص الاتصال </string>
+    <string name="error_tweets"> قم بفحص الاتصال, اخر 10 تغريدات بدون اتصال. </string>
+    <string name="connection_error"> قم بفحص الاتصال </string>
+    <string name="loading"> تحميل.... </string>
+
+</resources>
